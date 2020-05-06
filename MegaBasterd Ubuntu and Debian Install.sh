@@ -8,4 +8,4 @@ cd /opt/
 wget https://github.com/tonikelope/megabasterd/releases/download/v7.24/MegaBasterd_7.24.jar
 
 
-ln /opt/MegaBasterd_7.24 /usr/share/applications
+ln /opt/MegaBasterd_7.24.jar /usr/share/applications
