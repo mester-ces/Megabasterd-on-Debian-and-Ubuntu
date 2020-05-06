@@ -2,8 +2,10 @@
 
 apt install wget
 
+apt install default-jre default-jdk
+
 cd /opt/
-wget https://github.com/tonikelope/megabasterd/releases/download/v7.23/MegaBasterd_7.23.jar
+wget https://github.com/tonikelope/megabasterd/releases/download/v7.24/MegaBasterd_7.24.jar
 
 
-ln /opt/MegaBasterd_7.23 /usr/share/applications
+ln /opt/MegaBasterd_7.24 /usr/share/applications
